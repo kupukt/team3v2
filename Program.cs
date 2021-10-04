@@ -10,6 +10,7 @@ namespace team3v2
             KupuBio();
             DisplaySpellmanGreeting();
             HereFromBrenin();
+            SupYall();
         }
 
         static void KupuBio()
