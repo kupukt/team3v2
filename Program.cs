@@ -8,5 +8,10 @@ namespace team3v2
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void DisplaySpellmanGreeting()
+        {
+            Console.WriteLine("Hello, I'm Linda!");
+        }
     }
 }
