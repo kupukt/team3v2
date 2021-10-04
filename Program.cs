@@ -6,7 +6,11 @@ namespace team3v2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            HereFromBrenin();
+        }
+        static void HereFromBrenin()
+        {
+            Console.WriteLine("Here from Brenin :)");
         }
     }
 }
