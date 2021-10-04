@@ -8,6 +8,7 @@ namespace team3v2
         {
             Console.WriteLine("Hello World!");
             KupuBio();
+            DisplaySpellmanGreeting();
         }
 
         static void KupuBio()
