@@ -7,6 +7,12 @@ namespace team3v2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            KupuBio();
+        }
+
+        static void KupuBio()
+        {
+            Console.WriteLine("Hi guys, my name is kupu");
         }
     }
 }
