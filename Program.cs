@@ -13,7 +13,7 @@ namespace team3v2
         static void KupuBio()
         {
             Console.WriteLine("Hi guys, my name is kupu");
-            HereFromBrenin();
+            
         }
         static void HereFromBrenin()
         {
