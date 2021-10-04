@@ -17,5 +17,9 @@ namespace team3v2
         {
             Console.WriteLine("Hello, I'm Linda!");
         }
+        static void SupYall()
+        {
+            Console.WriteLine("Hiya everyone");
+        }
     }
 }
